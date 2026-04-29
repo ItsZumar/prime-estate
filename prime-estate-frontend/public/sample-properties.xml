@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<properties>
+
+  <property>
+    <title>Sunset Ridge Villa</title>
+    <price>1450000</price>
+    <property_type>villa</property_type>
+    <listing_mode>sale</listing_mode>
+    <address>Malibu, CA</address>
+    <city>Malibu</city>
+    <bedrooms>5</bedrooms>
+    <bathrooms>4</bathrooms>
+    <sqft>5100</sqft>
+    <year_built>2019</year_built>
+    <garage>3</garage>
+    <description>Perched above the Pacific, this contemporary villa offers panoramic ocean views, a resort-style infinity pool, and a private home theater.</description>
+    <images>
+      <image>https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&amp;fit=crop&amp;w=800&amp;q=80</image>
+      <image>https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&amp;fit=crop&amp;w=800&amp;q=80</image>
+      <image>https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&amp;fit=crop&amp;w=800&amp;q=80</image>
+    </images>
+  </property>
+
+  <property>
+    <title>The Pearl Residences — Unit 12B</title>
+    <price>6800</price>
+    <property_type>apartment</property_type>
+    <listing_mode>rent</listing_mode>
+    <address>Manhattan, NY</address>
+    <city>New York</city>
+    <bedrooms>3</bedrooms>
+    <bathrooms>2</bathrooms>
+    <sqft>1450</sqft>
+    <year_built>2022</year_built>
+    <garage>1</garage>
+    <description>Brand-new high-rise apartment with floor-to-ceiling glass, a private terrace, and concierge service. Steps from Central Park.</description>
+    <images>
+      <image>https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&amp;fit=crop&amp;w=800&amp;q=80</image>
+      <image>https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?auto=format&amp;fit=crop&amp;w=800&amp;q=80</image>
+      <image>https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?auto=format&amp;fit=crop&amp;w=800&amp;q=80</image>
+    </images>
+  </property>
+
+  <property>
+    <title>Lakefront Craftsman Retreat</title>
+    <price>875000</price>
+    <property_type>house</property_type>
+    <listing_mode>sale</listing_mode>
+    <address>Lake Oswego, OR</address>
+    <city>Portland</city>
+    <bedrooms>4</bedrooms>
+    <bathrooms>3</bathrooms>
+    <sqft>3200</sqft>
+    <year_built>2008</year_built>
+    <garage>2</garage>
+    <description>Classic craftsman architecture with a wraparound porch and direct lake access. Fully renovated kitchen and spa-like master bath.</description>
+    <images>
+      <image>https://images.unsplash.com/photo-1568605114967-8130f3a36994?auto=format&amp;fit=crop&amp;w=800&amp;q=80</image>
+      <image>https://images.unsplash.com/photo-1570129477492-45c003edd2be?auto=format&amp;fit=crop&amp;w=800&amp;q=80</image>
+      <image>https://images.unsplash.com/photo-1484154218962-a197022b5858?auto=format&amp;fit=crop&amp;w=800&amp;q=80</image>
+    </images>
+  </property>
+
+  <property>
+    <title>Downtown Micro-Studio</title>
+    <price>1950</price>
+    <property_type>apartment</property_type>
+    <listing_mode>rent</listing_mode>
+    <address>Chicago, IL</address>
+    <city>Chicago</city>
+    <bedrooms>1</bedrooms>
+    <bathrooms>1</bathrooms>
+    <sqft>480</sqft>
+    <year_built>2021</year_built>
+    <garage>0</garage>
+    <description>Smart, efficiently designed studio in River North. High ceilings, built-in storage, and a rooftop deck with skyline views included.</description>
+    <images>
+      <image>https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&amp;fit=crop&amp;w=800&amp;q=80</image>
+      <image>https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?auto=format&amp;fit=crop&amp;w=800&amp;q=80</image>
+      <image>https://images.unsplash.com/photo-1583608205776-bfd35f0d9f83?auto=format&amp;fit=crop&amp;w=800&amp;q=80</image>
+    </images>
+  </property>
+
+  <property>
+    <title>Spanish Colonial Estate</title>
+    <price>2100000</price>
+    <property_type>villa</property_type>
+    <listing_mode>sale</listing_mode>
+    <address>Coral Gables, FL</address>
+    <city>Miami</city>
+    <bedrooms>7</bedrooms>
+    <bathrooms>6</bathrooms>
+    <sqft>7400</sqft>
+    <year_built>2012</year_built>
+    <garage>4</garage>
+    <description>Walled and gated Spanish colonial on a corner lot. Features a summer kitchen, guest casita, wine cellar, and championship tennis court.</description>
+    <images>
+      <image>https://images.unsplash.com/photo-1600607687939-cf8b3c2a4596?auto=format&amp;fit=crop&amp;w=800&amp;q=80</image>
+      <image>https://images.unsplash.com/photo-1564013799919-ab600027ffc6?auto=format&amp;fit=crop&amp;w=800&amp;q=80</image>
+      <image>https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&amp;fit=crop&amp;w=800&amp;q=80</image>
+    </images>
+  </property>
+
+  <property>
+    <title>Capitol Hill Row House</title>
+    <price>699000</price>
+    <property_type>house</property_type>
+    <listing_mode>sale</listing_mode>
+    <address>Washington, DC</address>
+    <city>Washington</city>
+    <bedrooms>3</bedrooms>
+    <bathrooms>2</bathrooms>
+    <sqft>1780</sqft>
+    <year_built>1924</year_built>
+    <garage>0</garage>
+    <description>Meticulously preserved Federal-period row house two blocks from the Capitol. Original moldings, exposed brick, and a private rear garden.</description>
+    <images>
+      <image>https://images.unsplash.com/photo-1560185007-cde436f6a4d0?auto=format&amp;fit=crop&amp;w=800&amp;q=80</image>
+      <image>https://images.unsplash.com/photo-1600607687939-cf8b3c2a4596?auto=format&amp;fit=crop&amp;w=800&amp;q=80</image>
+      <image>https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&amp;fit=crop&amp;w=800&amp;q=80</image>
+    </images>
+  </property>
+
+  <property>
+    <title>Highrise Corner Unit — 38F</title>
+    <price>5400</price>
+    <property_type>apartment</property_type>
+    <listing_mode>rent</listing_mode>
+    <address>San Francisco, CA</address>
+    <city>San Francisco</city>
+    <bedrooms>2</bedrooms>
+    <bathrooms>2</bathrooms>
+    <sqft>1200</sqft>
+    <year_built>2018</year_built>
+    <garage>1</garage>
+    <description>Wrap-around bay and bridge views from the 38th floor. Floor-to-ceiling glass, Gaggenau kitchen, and access to a full-floor amenity deck.</description>
+    <images>
+      <image>https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&amp;fit=crop&amp;w=800&amp;q=80</image>
+      <image>https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&amp;fit=crop&amp;w=800&amp;q=80</image>
+      <image>https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?auto=format&amp;fit=crop&amp;w=800&amp;q=80</image>
+    </images>
+  </property>
+
+  <property>
+    <title>Desert Modern Ranch</title>
+    <price>540000</price>
+    <property_type>house</property_type>
+    <listing_mode>sale</listing_mode>
+    <address>Scottsdale, AZ</address>
+    <city>Scottsdale</city>
+    <bedrooms>4</bedrooms>
+    <bathrooms>3</bathrooms>
+    <sqft>2650</sqft>
+    <year_built>2016</year_built>
+    <garage>2</garage>
+    <description>Single-level desert-contemporary with a negative-edge pool, outdoor kitchen, and mountain views. Solar-powered with whole-home automation.</description>
+    <images>
+      <image>https://images.unsplash.com/photo-1564013799919-ab600027ffc6?auto=format&amp;fit=crop&amp;w=800&amp;q=80</image>
+      <image>https://images.unsplash.com/photo-1568605114967-8130f3a36994?auto=format&amp;fit=crop&amp;w=800&amp;q=80</image>
+      <image>https://images.unsplash.com/photo-1484154218962-a197022b5858?auto=format&amp;fit=crop&amp;w=800&amp;q=80</image>
+    </images>
+  </property>
+
+  <property>
+    <title>Converted Warehouse Loft</title>
+    <price>3200</price>
+    <property_type>apartment</property_type>
+    <listing_mode>rent</listing_mode>
+    <address>Brooklyn, NY</address>
+    <city>New York</city>
+    <bedrooms>2</bedrooms>
+    <bathrooms>1</bathrooms>
+    <sqft>1600</sqft>
+    <year_built>1910</year_built>
+    <garage>0</garage>
+    <description>Original timber beams, polished concrete floors, and 14-foot ceilings in a landmark DUMBO conversion. Private courtyard garden access.</description>
+    <images>
+      <image>https://images.unsplash.com/photo-1583608205776-bfd35f0d9f83?auto=format&amp;fit=crop&amp;w=800&amp;q=80</image>
+      <image>https://images.unsplash.com/photo-1493809842364-78817add7ffb?auto=format&amp;fit=crop&amp;w=800&amp;q=80</image>
+      <image>https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&amp;fit=crop&amp;w=800&amp;q=80</image>
+    </images>
+  </property>
+
+  <property>
+    <title>Blue Ridge Mountain Chalet</title>
+    <price>385000</price>
+    <property_type>house</property_type>
+    <listing_mode>sale</listing_mode>
+    <address>Asheville, NC</address>
+    <city>Asheville</city>
+    <bedrooms>3</bedrooms>
+    <bathrooms>2</bathrooms>
+    <sqft>1950</sqft>
+    <year_built>1998</year_built>
+    <garage>1</garage>
+    <description>Timber-frame chalet with a stone fireplace, screened porch, and wooded half-acre lot. Ten minutes to downtown Asheville arts district.</description>
+    <images>
+      <image>https://images.unsplash.com/photo-1570129477492-45c003edd2be?auto=format&amp;fit=crop&amp;w=800&amp;q=80</image>
+      <image>https://images.unsplash.com/photo-1560185007-cde436f6a4d0?auto=format&amp;fit=crop&amp;w=800&amp;q=80</image>
+      <image>https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&amp;fit=crop&amp;w=800&amp;q=80</image>
+    </images>
+  </property>
+
+</properties>
